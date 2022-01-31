@@ -1,0 +1,1 @@
+# Creational Patterns: Factory Method in Go
