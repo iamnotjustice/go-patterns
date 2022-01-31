@@ -1,0 +1,5 @@
+{
+    "byte_order": "big-endian",
+    "arch": "PowerPC",
+    "addressable_bytes": 32
+}
