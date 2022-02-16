@@ -1,0 +1,1 @@
+# Behavioral Patterns: Strategy in Go
