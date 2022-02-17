@@ -25,6 +25,8 @@ func (h *JSONHandler) Handle(filename string) string {
 		return h.next.Handle(filename)
 	}
 
+	// Imagine we have something more sophisticated here.
+
 	return "changed JSON file"
 }
 
