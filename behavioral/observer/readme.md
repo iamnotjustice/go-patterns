@@ -1,0 +1,1 @@
+# Behavioral Patterns: Observer in Go
